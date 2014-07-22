@@ -1,0 +1,210 @@
+[
+  {
+    "symbolicName": "android-support-v4",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ded9acc6a9792b8f1afc470f0c9cd36d178914cd",
+    "jarFileModificationDate": "2014-07-10T22:48:54.417+08:00",
+    "location": "F:\\BaiduYunDownload\\code\\java\\demo\\libs\\android-support-v4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "android",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "47ffff881d2fe54d5c646fcc3a646bf291008448",
+    "jarFileModificationDate": "2014-06-21T20:55:19.994+08:00",
+    "location": "C:\\Users\\Administrator\\android-sdks\\platforms\\android-16\\android.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "android-support-v4",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ded9acc6a9792b8f1afc470f0c9cd36d178914cd",
+    "jarFileModificationDate": "2014-07-13T17:26:12.495+08:00",
+    "location": "F:\\BaiduYunDownload\\code\\java\\fuckWorld\\libs\\android-support-v4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "android-support-v4",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ded9acc6a9792b8f1afc470f0c9cd36d178914cd",
+    "jarFileModificationDate": "2014-07-10T22:03:01.332+08:00",
+    "location": "F:\\BaiduYunDownload\\code\\java\\helloworld\\libs\\android-support-v4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "appcompat_v7_2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "9951e345c2e69bd54247ade392c9c7e0c5878626",
+    "jarFileModificationDate": "2014-07-23T07:00:05.442+08:00",
+    "location": "F:\\BaiduYunDownload\\code\\java\\appcompat_v7_2\\bin\\appcompat_v7_2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "android-support-v4",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ded9acc6a9792b8f1afc470f0c9cd36d178914cd",
+    "jarFileModificationDate": "2014-07-10T22:00:14.533+08:00",
+    "location": "F:\\BaiduYunDownload\\code\\java\\appcompat_v7_2\\libs\\android-support-v4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "appcompat_v7",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "9c5e6a31e017629ab6c0ef12ab28f1ac537aac06",
+    "jarFileModificationDate": "2014-07-23T07:00:03.371+08:00",
+    "location": "F:\\BaiduYunDownload\\code\\java\\appcompat_v7\\bin\\appcompat_v7.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "android-support-v4",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ded9acc6a9792b8f1afc470f0c9cd36d178914cd",
+    "jarFileModificationDate": "2014-07-23T07:27:56.945+08:00",
+    "location": "F:\\BaiduYunDownload\\code\\java\\Mytest\\libs\\android-support-v4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "android-support-v4",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ded9acc6a9792b8f1afc470f0c9cd36d178914cd",
+    "jarFileModificationDate": "2014-07-10T22:00:14.533+08:00",
+    "location": "F:\\BaiduYunDownload\\code\\java\\appcompat_v7\\libs\\android-support-v4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "android",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "7f972d2aa0fcb741fc84a9a10c98555f6f431a7a",
+    "jarFileModificationDate": "2014-06-21T19:54:20.616+08:00",
+    "location": "C:\\Users\\Administrator\\android-sdks\\platforms\\android-19\\android.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "android-support-v7-appcompat",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "21297ae2bf22a0ce81c9b59992cf0693eec45d5b",
+    "jarFileModificationDate": "2014-07-10T22:00:16.159+08:00",
+    "location": "F:\\BaiduYunDownload\\code\\java\\appcompat_v7_2\\libs\\android-support-v7-appcompat.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "android-support-v7-appcompat",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "21297ae2bf22a0ce81c9b59992cf0693eec45d5b",
+    "jarFileModificationDate": "2014-07-10T22:00:16.159+08:00",
+    "location": "F:\\BaiduYunDownload\\code\\java\\appcompat_v7_3\\libs\\android-support-v7-appcompat.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "appcompat_v7_3",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "6c6c6dcb4441e2740b208cddb108c450346a45c9",
+    "jarFileModificationDate": "2014-07-23T07:00:09.811+08:00",
+    "location": "F:\\BaiduYunDownload\\code\\java\\appcompat_v7_3\\bin\\appcompat_v7_3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "android-support-v7-appcompat",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "21297ae2bf22a0ce81c9b59992cf0693eec45d5b",
+    "jarFileModificationDate": "2014-07-10T22:00:16.159+08:00",
+    "location": "F:\\BaiduYunDownload\\code\\java\\appcompat_v7\\libs\\android-support-v7-appcompat.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "android-support-v4",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ded9acc6a9792b8f1afc470f0c9cd36d178914cd",
+    "jarFileModificationDate": "2014-07-10T22:00:14.533+08:00",
+    "location": "F:\\BaiduYunDownload\\code\\java\\appcompat_v7_3\\libs\\android-support-v4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "android",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f4f6d0685c8372195356c55b8578565fe2487825",
+    "jarFileModificationDate": "2014-06-21T20:40:26.328+08:00",
+    "location": "C:\\Users\\Administrator\\android-sdks\\platforms\\android-18\\android.jar",
+    "javaRuntime": false
+  }
+]
