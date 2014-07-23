@@ -7524,3 +7524,30 @@ Binding(CTRL+SHIFT+ARROW_DOWN,
 		,,true),null),
 	org.eclipse.ui.defaultAcceleratorConfiguration,
 	org.eclipse.wst.sse.ui.structuredTextEditorScope,,,system)
+
+!ENTRY com.android.ide.eclipse.adt 1 0 2014-07-23 08:08:59.439
+!MESSAGE NewXmlFile wizard: no data for target Android 4.3, project Mytest
+
+!ENTRY com.android.ide.eclipse.adt 1 0 2014-07-23 08:08:59.464
+!MESSAGE NewXmlFile wizard: no data for target Android 4.3, project Mytest
+
+!ENTRY com.android.ide.eclipse.adt 1 0 2014-07-23 08:08:59.467
+!MESSAGE NewXmlFile wizard: no data for target Android 4.3, project Mytest
+
+!ENTRY com.android.ide.eclipse.adt 1 0 2014-07-23 08:08:59.467
+!MESSAGE NewXmlFile wizard: no data for target Android 4.3, project Mytest
+
+!ENTRY com.android.ide.eclipse.adt 1 0 2014-07-23 08:08:59.468
+!MESSAGE NewXmlFile wizard: no data for target Android 4.3, project Mytest
+
+!ENTRY com.android.ide.eclipse.adt 1 0 2014-07-23 08:08:59.469
+!MESSAGE NewXmlFile wizard: no data for target Android 4.3, project Mytest
+
+!ENTRY com.android.ide.eclipse.adt 1 0 2014-07-23 08:08:59.469
+!MESSAGE NewXmlFile wizard: no data for target Android 4.3, project Mytest
+
+!ENTRY com.android.ide.eclipse.adt 1 0 2014-07-23 08:08:59.470
+!MESSAGE NewXmlFile wizard: no data for target Android 4.3, project Mytest
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2014-07-23 08:09:16.890
+!MESSAGE Failed to create L/Mytest/res/layout/other.xml: missing root element
